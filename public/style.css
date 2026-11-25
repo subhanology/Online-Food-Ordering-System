@@ -1,0 +1,7 @@
+body { background: #f7f7f3; color: #222; font-family: system-ui, sans-serif; }
+.site-header { background: #244936; color: white; }
+.card { border: 1px solid #dedfd9; border-radius: 12px; box-shadow: 0 2px 6px #00000008; }
+.food-card { height: 100%; }
+.cart-row { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 10px 0; border-bottom: 1px solid #eee; }
+#message { margin-bottom: 12px; }
+@media(max-width: 576px) { .site-header h1 { font-size: 1.6rem; } }
