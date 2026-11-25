@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c297bb33-221c-4e88-85bd-034b78b0c340",
+    "name": "Subhan Iqbal",
+    "phone": "03080424195",
+    "address": "Islamabad",
+    "items": [
+      {
+        "id": 1,
+        "name": "Zinger Burger",
+        "price": 450,
+        "quantity": 1,
+        "subtotal": 450
+      },
+      {
+        "id": 3,
+        "name": "French Fries",
+        "price": 250,
+        "quantity": 1,
+        "subtotal": 250
+      }
+    ],
+    "total": 700,
+    "createdAt": "2026-11-25T12:57:24.416Z"
+  }
+]

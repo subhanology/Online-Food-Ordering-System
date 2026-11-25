@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Zinger Burger","price":450,"category":"Burgers"},
+  {"id":2,"name":"Chicken Pizza","price":1200,"category":"Pizza"},
+  {"id":3,"name":"French Fries","price":250,"category":"Sides"},
+  {"id":4,"name":"Chicken Shawarma","price":350,"category":"Wraps"},
+  {"id":5,"name":"Pasta","price":650,"category":"Main Course"},
+  {"id":6,"name":"Soft Drink","price":120,"category":"Drinks"}
+]
